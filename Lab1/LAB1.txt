@@ -1,0 +1,24 @@
+gPe siteul lui pentiuc
+user student
+parola Suceava
+
+github.com/andreiluchian/rf2018
+lab-1 password: rf2018usv
+
+forma despre linie si caracteristica despre coloane
+
+1 2 3
+3 4 2
+1 5 3
+Normalizarea: 
+0 0 1
+1 0.66 0
+0 1 1
+
+TEST saptamana 9 sau 10.
+Bonus pe parcusul lab posibilitate.
+0.5 daca posteaza pe github
+2-5 lab pot fi recuperate platit
+mapare - transformam in alt tip de data
+primitive  double-date speciale care se tip pe stack
+primitive Double - date speciala plus alte 
